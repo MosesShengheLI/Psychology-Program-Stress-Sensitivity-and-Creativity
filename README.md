@@ -1,1 +1,3 @@
 # Psychology-Program-Stress-Sensitivity-and-Creativity
+
+一个基于Python的数据分析项目，旨在探究感官处理敏感性如何调节评估压力对创造力的影响。本项目复现了一项针对202名大学生的心理学实验，包含了从数据清洗、统计检验到结果可视化的完整代码。
