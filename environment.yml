@@ -1,0 +1,23 @@
+name: SPS_Creativity_251001
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - shap
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
+  - pip
+  - jupyter
+  - pip:
+      - watermark
