@@ -3,7 +3,7 @@
 一个基于Python的数据分析项目，旨在探究感官处理敏感性如何调节评估压力对创造力的影响。本项目复现了一项针对202名大学生的心理学实验，包含了从数据清洗、统计检验到结果可视化的完整代码。
 
 ## Project Overview
-This project investigates the relationship between **Sensory Processing Sensitivity (SPS)**, **Creative Self-Efficacy (CSE)**, and creativity changes using statistical analysis and machine learning models. The workflow is organized into five Jupyter notebooks covering data cleaning, exploratory analysis, statistical modeling, predictive modeling, and a simple MLP.
+This project investigates the relationship between **Sensory Processing Sensitivity (SPS)**, **Evaluation Stress**, and **creativity** using statistical analysis and machine learning models. The workflow is organized into five Jupyter notebooks covering data cleaning, Data analysis and visualization, exploratory analysis, predictive modeling, and a simple MLP.
 
 ---
 
@@ -13,6 +13,7 @@ SPS_Creativity_Project/
 ├─ 03_Exploratory_Analysis_and_Future_Directions.ipynb
 ├─ 04_Predictable_Directions_in_Machine_Learning.ipynb
 ├─ 05_Simple_Multilayer_Perceptron.ipynb
+├─ LICENSE
 ├─ environment.yml
 ├─ Raw Data.csv
 ├─ SPS Data.csv
@@ -51,7 +52,7 @@ SPS_Creativity_Project/
 ## How to Reproduce Results
 
 1. Clone the repository:
-git clone <repo_url>
+git clone <https://github.com/MosesShengheLI/SPS-Stress-and-Creativity_Analysis/tree/main>
 cd SPS_Creativity_Project
 
 2. Set up the environment (Conda recommended):
