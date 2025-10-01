@@ -7,44 +7,54 @@ This project investigates the relationship between **Sensory Processing Sensitiv
 
 ---
 
-SPS_Creativity_Project/<cd>
-├─ 01_Data_Cleaning_and_EDA.ipynb<cd>
-├─ 02_Statistical_Analysis.ipynb<cd>
-├─ 03_Exploratory_Analysis_and_Future_Directions.ipynb<cd>
-├─ 04_Predictable_Directions_in_Machine_Learning.ipynb<cd>
-├─ 05_Simple_Multilayer_Perceptron.ipynb<cd>
-├─ LICENSE<cd>
-├─ environment.yml<cd>
-├─ Raw Data.csv<cd>
-├─ SPS Data.csv<cd>
-└─ .gitignore<cd>
+SPS_Creativity_Project/
+
+├─ 01_Data_Cleaning_and_EDA.ipynb=
+
+├─ 02_Statistical_Analysis.ipynb=
+
+├─ 03_Exploratory_Analysis_and_Future_Directions.ipynb
+
+├─ 04_Predictable_Directions_in_Machine_Learning.ipynb
+
+├─ 05_Simple_Multilayer_Perceptron.ipynb
+
+├─ LICENSE
+
+├─ environment.yml
+
+├─ Raw Data.csv
+
+├─ SPS Data.csv
+
+└─ .gitignore
 
 ---
 
 
 ## Notebooks Overview
 
-1. **01_Data_Cleaning_and_EDA.ipynb**  
+**01_Data_Cleaning_and_EDA.ipynb**  
    - Data cleaning, missing value handling, outlier detection  
    - Initial exploratory data analysis (EDA)  
    - Prepares processed datasets for downstream analysis  
 
-2. **02_Statistical_Analysis.ipynb**  
+**02_Statistical_Analysis.ipynb**  
    - Conducts ANOVA, ANCOVA, and other statistical tests  
    - Examines relationships between SPS, CSE, and creativity changes  
    - Generates summary tables and plots  
 
-3. **03_Exploratory_Analysis_and_Future_Directions.ipynb**  
+**03_Exploratory_Analysis_and_Future_Directions.ipynb**  
    - Additional data exploration and trend analysis  
    - Identifies features important for machine learning models  
    - Provides guidance for future predictive analysis  
 
-4. **04_Predictable_Directions_in_Machine_Learning.ipynb**  
+**04_Predictable_Directions_in_Machine_Learning.ipynb**  
    - Implements regression models to predict creativity changes  
    - Includes feature preprocessing (one-hot encoding, scaling)  
    - Evaluates model performance on train/test splits  
 
-5. **05_Simple_Multilayer_Perceptron.ipynb**  
+**05_Simple_Multilayer_Perceptron.ipynb**  
    - Builds a simple MLP for regression using PyTorch  
    - Includes training loop, loss monitoring, and test evaluation  
 
