@@ -67,7 +67,9 @@ git clone
 <https://github.com/MosesShengheLI/SPS-Stress-and-Creativity_Analysis/tree/main>
 
 2. Set up the environment (Conda recommended):
+
 conda env create -f environment.yml
+
 conda activate SPS_Creativity_251001
 
 3. Run notebooks in order:
