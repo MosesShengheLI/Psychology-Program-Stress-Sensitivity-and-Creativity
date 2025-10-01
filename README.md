@@ -7,19 +7,20 @@ This project investigates the relationship between **Sensory Processing Sensitiv
 
 ---
 
-SPS_Creativity_Project/
-├─ 01_Data_Cleaning_and_EDA.ipynb
-├─ 02_Statistical_Analysis.ipynb
-├─ 03_Exploratory_Analysis_and_Future_Directions.ipynb
-├─ 04_Predictable_Directions_in_Machine_Learning.ipynb
-├─ 05_Simple_Multilayer_Perceptron.ipynb
-├─ LICENSE
-├─ environment.yml
-├─ Raw Data.csv
-├─ SPS Data.csv
-└─ .gitignore
+SPS_Creativity_Project/<cd>
+├─ 01_Data_Cleaning_and_EDA.ipynb<cd>
+├─ 02_Statistical_Analysis.ipynb<cd>
+├─ 03_Exploratory_Analysis_and_Future_Directions.ipynb<cd>
+├─ 04_Predictable_Directions_in_Machine_Learning.ipynb<cd>
+├─ 05_Simple_Multilayer_Perceptron.ipynb<cd>
+├─ LICENSE<cd>
+├─ environment.yml<cd>
+├─ Raw Data.csv<cd>
+├─ SPS Data.csv<cd>
+└─ .gitignore<cd>
 
 ---
+
 
 ## Notebooks Overview
 
@@ -55,11 +56,11 @@ SPS_Creativity_Project/
 git clone
 <https://github.com/MosesShengheLI/SPS-Stress-and-Creativity_Analysis/tree/main>
 
-3. Set up the environment (Conda recommended):
+2. Set up the environment (Conda recommended):
 conda env create -f environment.yml
 conda activate SPS_Creativity_251001
 
-4. Run notebooks in order:
+3. Run notebooks in order:
 
 01_Data_Cleaning_and_EDA.ipynb
 
